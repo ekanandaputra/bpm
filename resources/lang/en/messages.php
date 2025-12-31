@@ -1,0 +1,25 @@
+<?php
+
+return [
+    'dashboard' => 'Dashboard',
+    'patients' => 'Patients',
+    'medications' => 'Medications',
+    'clinic_mr' => 'Clinic MR',
+    'logout' => 'Logout',
+    'loading' => 'Loading...',
+    'apps_pages' => 'Apps & Pages',
+    'add_record' => 'Add Record',
+    'medical_records' => 'Medical Records',
+    'no_records' => 'No medical records yet.',
+    'license' => 'License',
+    'more_themes' => 'More Themes',
+    'english' => 'English',
+    'indonesia' => 'Indonesia',
+    'view' => 'View',
+    'edit' => 'Edit',
+    'back' => 'Back',
+    'save' => 'Save',
+    'update' => 'Update',
+    'delete' => 'Delete',
+    'patient_details' => 'Patient details',
+];

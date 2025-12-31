@@ -1,0 +1,25 @@
+<?php
+
+return [
+    'dashboard' => 'Dasbor',
+    'patients' => 'Pasien',
+    'medications' => 'Obat',
+    'clinic_mr' => 'Klinik MR',
+    'logout' => 'Keluar',
+    'loading' => 'Memuat...',
+    'apps_pages' => 'Aplikasi & Halaman',
+    'add_record' => 'Tambah Rekam Medis',
+    'medical_records' => 'Rekam Medis',
+    'no_records' => 'Belum ada rekam medis.',
+    'license' => 'Lisensi',
+    'more_themes' => 'Tema Lainnya',
+    'english' => 'Inggris',
+    'indonesia' => 'Indonesia',
+    'view' => 'Lihat',
+    'edit' => 'Ubah',
+    'back' => 'Kembali',
+    'save' => 'Simpan',
+    'update' => 'Perbarui',
+    'delete' => 'Hapus',
+    'patient_details' => 'Detail pasien',
+];

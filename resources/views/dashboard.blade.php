@@ -24,14 +24,14 @@
                 </div>
             </div>
 
-            <div class="col-md-3">
+            {{-- <div class="col-md-3">
                 <div class="card p-3">
                     <h3 class="h6">Last Updated Patient</h3>
                     <p class="muted small">Most recently updated</p>
                     <div class="fw-bold">{{ optional($lastUpdatedPatient)->name ?? '-' }}</div>
                     <div class="muted small">{{ optional($lastUpdatedPatient->updated_at)->format('Y-m-d H:i') ?? '-' }}</div>
                 </div>
-            </div>
+            </div> --}}
 
             <div class="col-md-3">
                 <div class="card p-3">
